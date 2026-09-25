@@ -17,7 +17,7 @@
 ## 已上架
 | 游戏 | 路径 |
 |---|---|
-| 星际战车 Planet Tanks | `/planet-tanks/` |
+| 星际战车-UU共创版 Planet Tanks | `/planet-tanks/` |
 | 飞车 3D QQ Speed 3D | `/feiche-3d/` |
 | 鹈鹕骑单车 Pelican on a Bike | `/pelican-bike/` |
 | 穿越火线·运输船 Transport Ship | `/cf-transport-ship/` |
