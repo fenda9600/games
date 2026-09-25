@@ -18,6 +18,9 @@
 | 游戏 | 路径 |
 |---|---|
 | 星际战车 Planet Tanks | `/planet-tanks/` |
+| 飞车 3D QQ Speed 3D | `/feiche-3d/` |
+| 鹈鹕骑单车 Pelican on a Bike | `/pelican-bike/` |
+| 穿越火线·运输船 Transport Ship | `/cf-transport-ship/` |
 
 ## 上架新游戏
 见 [CLAUDE.md](CLAUDE.md) 中的规范。
