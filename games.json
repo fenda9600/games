@@ -16,12 +16,12 @@
     {
       "id": "feiche-3d",
       "title": "飞车 3D",
-      "subtitle": "QQ Speed 3D",
-      "description": "五张赛道漂移竞速：看车尾火花颜色打出小喷、双喷、接氮气，赢金币买车改装，挑战 5 圈落日高速。",
+      "subtitle": "Cyber Drift 3D",
+      "description": "六张赛道的赛博漂移竞速：驾驶尖峰、棉花糖卡丁车，看车尾火花打出小喷、双喷、接氮气，最多 20 圈，赢金币改装到 Lv20。",
       "path": "/feiche-3d/",
       "cover": "/feiche-3d/cover.jpg",
       "icon": "🏎️",
-      "accent": "#ff8a00",
+      "accent": "#27f0ff",
       "tags": ["竞速", "漂移", "养成"],
       "controls": "键盘 / 触屏",
       "added": "2026-09-25"
