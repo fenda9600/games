@@ -1,0 +1,17 @@
+{
+  "games": [
+    {
+      "id": "planet-tanks",
+      "title": "星际战车",
+      "subtitle": "Planet Tanks",
+      "description": "驾驶战车在 8 颗星球上一对一对决，击毁敌车爆出金币与钻石，升级装备、解锁新星球。",
+      "path": "/planet-tanks/",
+      "cover": "/planet-tanks/cover.jpg",
+      "icon": "🚀",
+      "accent": "#6fe3ff",
+      "tags": ["动作", "对战", "养成"],
+      "controls": "键鼠 / 触屏",
+      "added": "2026-09-25"
+    }
+  ]
+}
